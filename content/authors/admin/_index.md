@@ -40,9 +40,10 @@ profiles:
 
 interests:
   - Data Structures and Algorithms Design & Analysis
+  - Mobile Application Development
+  - Problem Solving
   - Artificial Intelligence
   - Software Engineering
-  - Problem Solving
 
 education:
   - area: Bachelor of System Engineering & Engineering Management
