@@ -1,6 +1,6 @@
 ---
 title: disCUssion
-date: 2023-05-23
+date: 2022-05-23
 external_link: https://github.com/ikim0106/disCUssion
 tags:
   - Website Development
