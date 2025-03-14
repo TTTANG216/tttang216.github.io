@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: email-svg
     url: 'mailto:tttang216@gmail.com'
     label: E-mail Me
   - icon: brands/github
@@ -39,11 +39,12 @@ profiles:
     url: https://www.linkedin.com/in/tsz-tsun-tang-7b1987216/
 
 interests:
-  - Data Structures and Algorithms Design & Analysis
+  - Data Structures
+  - Algorithms Design & Analysis
   - Mobile Application Development
-  - Problem Solving
   - Artificial Intelligence
   - Software Engineering
+  - Problem Solving
 
 education:
   - area: Bachelor of System Engineering & Engineering Management
