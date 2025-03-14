@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 鄧梓峻
+title: John Tang
 
 # Name pronunciation (optional)
-name_pronunciation: Tang Tsz Tsun
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Tsz Tsun
