@@ -53,6 +53,10 @@ education:
       Major: System Engineering & Engineering Management<br />
       Minor: Computer Science<br />
       Study on Bin Packing Problem for Final Year Project. Supervised by [Dr. Ng Chi-Kong Kevin](https://www1.se.cuhk.edu.hk/~ckng/). <br />
+    button:
+      text: 'Read Report'
+      url: 'https://drive.google.com/file/d/1C-Oq-xnRjaQW9Mrh8F2u9gbJNtbDhxpq/view?usp=sharing'
+    summary: |
       Relevant Coursework:
       - Data Structure
       - Design and Analysis of Algorithms
@@ -60,9 +64,6 @@ education:
       - Human-computer Interaction
       - E-Commerce Data Mining
       - Information Systems Analysis and Design
-    button:
-      text: 'Read Report'
-      url: 'https://drive.google.com/file/d/1C-Oq-xnRjaQW9Mrh8F2u9gbJNtbDhxpq/view?usp=sharing'
 
 work:
   - position: Teacher Assistant
