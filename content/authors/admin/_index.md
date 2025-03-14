@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Fresh Graduate System Engineering & Engineering Management Student at CUHK
+role: Fresh Graduate SEEM Student at CUHK
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -166,4 +166,4 @@ languages:
 
 ## About Me
 
-I'm a System Engineering & Engineering Management student at The Chinese University of Hong Kong with a passion for problem-solving, algorithms design & analysis, and software development. I enjoy working on diverse side projects, including full-stack web development, mini-games, in-memory storage systems, etc. Outside of projects and uni, I would engages in learning and self-improvement through study programs, personal projects, as well as competitive programming, mastering new technologies and solving challenging problems.
+I'm a System Engineering & Engineering Management(SEEM) student at The Chinese University of Hong Kong with a passion for problem-solving, algorithms design & analysis, and software development. I enjoy working on diverse side projects, including full-stack web development, mini-games, in-memory storage systems, etc. Outside of projects and uni, I would engages in learning and self-improvement through study programs, personal projects, as well as competitive programming, mastering new technologies and solving challenging problems.
