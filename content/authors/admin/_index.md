@@ -50,9 +50,9 @@ education:
     date_start: 2018-09-01
     date_end: 2024-03-31
     summary: |
-      Major: System Engineering & Engineering Management\n
-      Minor: Computer Science\n
-      Study on Bin Packing Problem for Final Year Project. Supervised by [Dr. Ng Chi-Kong Kevin](https://www1.se.cuhk.edu.hk/~ckng/). \n
+      Major: System Engineering & Engineering Management<br />
+      Minor: Computer Science<br />
+      Study on Bin Packing Problem for Final Year Project. Supervised by [Dr. Ng Chi-Kong Kevin](https://www1.se.cuhk.edu.hk/~ckng/). <br />
       Relevant Coursework:
       - Data Structure
       - Design and Analysis of Algorithms
