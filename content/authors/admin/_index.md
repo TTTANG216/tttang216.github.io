@@ -112,7 +112,7 @@ skills:
       - name: Web Development
         description: 'HTML, CSS, Node.js, React.jg'
         percent: 40
-        icon: chart-bar
+        icon: code-bracket
       - name: Database
         description: 'MongoDB, MySQL'
         percent: 60
@@ -120,7 +120,7 @@ skills:
       - name: App Development
         description: 'Android Studio'
         percent: 70
-        icon: circle-stack
+        icon: code-bracket
 
 languages:
   - name: English
