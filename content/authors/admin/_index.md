@@ -122,7 +122,7 @@ skills:
       - name: App Development
         description: 'Android Studio'
         percent: 70
-        icon: code-bracket
+        icon: custom/mobile
 
 languages:
   - name: English
